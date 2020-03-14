@@ -1,0 +1,28 @@
+Script started on 2020-03-14 10:41:49+0300
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[33mYello[K[K[K[K[K4m[1Pm:m[1Pm;m4m4m[CForeground in Yellow, Backd[Kground in Bl ue"
+[33;44mForeground in Yellow, Background in Blue
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[39;49mDefault"
+[39;49mDefault
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[0mNormal \e[1mBold \e[0;[Km \e[[K[K[K[K[K[K0;4mUnderlined \e[0;5m Blink \e[0mNormal"
+[0mNormal [1mBold [0;4mUnderlined [0;5mBlink [0mNormal
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[33,[K;44;[K[K[K[K[K[K0;33;44mBlueBG[Kg YellowFg \e[33;44;1mBold \e[033;44;1mBold \e[ [A]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C;33;44;1mBold \e[[[A]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C0;33;44;4mUnderlined\e[0;33;44m Blink \e[0;33;44;[K [KNormal[C[C[1@;[1@5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\e[0;39;49m
+> 
+> d
+> q
+> ^C
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[0;33;44mBlueBg YellowFg \e[0;33;44;1mBold \e[[0;33;44;4mUnderlined\e[0;33;44;5m Blink \e[0;33;44Normal\e[0;39;49m
+
+d
+q[K[K[A[C[K[K[A[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 
+> ^C
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[0;33;44mBlueBg YellowFg \e[0;33;44;1mBold \e[[0;33;44;4mUnderlined\e[0;33;44;5m Blink \e[0;33;44Normal\e[0;39;49m [C[K"
+[0;33;44mBlueBg YellowFg [0;33;44;1mBold [0;33;44;4mUnderlined[0;33;44;5m Blink [0;33;44Normal[0;39;49m
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[0;33;44mBlueBg YellowFg \e[0;33;44;1mBold \e[[0;33;44;4mUnderlined\e[0;33;44;5m Blink \e[0;33;44Normal\e[0;39;49m"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C [1@m
+> ^C
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[0;33;44mBlueBg YellowFg \e[0;33;44;1mBold \e[[0;33;44;4mUnderlined\e[0;33;44;5m Blink \e[0;33;44mNormal\e[0;39;49m @ [1P " 
+[0;33;44mBlueBg YellowFg [0;33;44;1mBold [0;33;44;4mUnderlined[0;33;44;5m Blink [0;33;44mNormal[0;39;49m
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-14 10:56:05+0300

@@ -1,0 +1,223 @@
+Script started on 2020-03-14 11:29:03+0300
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ history
+    1  echo helloworld
+    2  ls ?
+    3  ls /?
+    4  ls help
+    5  ls
+    6  what ls
+    7  where ls
+    8  help
+    9  help ls
+   10  info ls
+   11  vi
+   12  ls
+   13  cd документы
+   14  cd Документы
+   15  ды
+   16  ls
+   17  clear
+   18  cd ..
+   19  ls
+   20  vi
+   21  ls
+   22  cd Загрузки
+   23  cd ..
+   24  md helloworld
+   25  mkdr helloworld
+   26  clear
+   27  mkdir helloworld
+   28  cd helloworld
+   29  gcc helloworld.c -o helloworld
+   30  sudo apt install gcc
+   31  gcc helloworld.c -o helloworld
+   32  cd helloworld
+   33  ls
+   34  mv helloworld.txt helloworld.c
+   35  ls
+   36  gcc helloworld.c -o helloworld
+   37  vi helloworld.c
+   38  cd helloworld
+   39  gcc helloworld.c -o helloworld
+   40  ls
+   41  helloworld
+   42  ./helloworld
+   43  ~/helloworld
+   44  nao
+   45  nano
+   46  script
+   47  mkdir 1
+   48  cd 1
+   49  nano
+   50  gcc helloworld.c -o helloworld
+   51  helloworld
+   52  ./helloworld
+   53  script
+   54  mkdir 1
+   55  cd 1
+   56  nano
+   57  gcc Speed.c -o speed
+   58  nano
+   59  gcc Speed.c -o speed
+   60  nano
+   61  gcc Speed.c -o speed
+   62  nano
+   63  gcc Speed.c -o speed
+   64  nano
+   65  gcc Speed.c -o speed
+   66  ls
+   67  ./speed 36 9
+   68  ./speed 36 11
+   69  36 15
+   70  ./speed 36 15
+   71  nano
+   72  gcc Speed.c -o speed
+   73  ./speed 36 9
+   74  ./speed 36 11
+   75  ./speed 36 90
+   76  ./speed 36 20
+   77  ./speed 9 36
+   78  ./speed 11 36
+   79  ./speed 19 36
+   80  ./speed 2 36 9
+   81  nano
+   82  script
+   83  mkdir 1
+   84  cd 1
+   85  nano
+   86  gcc speed.c -o speed
+   87  nano
+   88  gcc speed.c -o speed
+   89  nano
+   90  gcc speed.c -o speed
+   91  nano
+   92  gcc speed.c -o speed
+   93  ./speed
+   94  nano
+   95  gcc speed.c -o speed
+   96  ./speed
+   97  gcc speed.c -o speed
+   98  ./speed
+   99  gcc speed.c -o speed
+  100  ./speed
+  101  gcc speed.c -o speed
+  102  ./speed
+  103  gcc speed.c -o speed
+  104  ./speed
+  105  mkdir 1
+  106  cd 1
+  107  cd ..
+  108  script
+  109  mkdir 1
+  110  cd 1
+  111  nano
+  112  gcc speed.c -o speed
+  113  ./speed
+  114  св 1
+  115  cd 1
+  116  ls
+  117  cat speed.c
+  118  less speed.c
+  119  cp speed.c 1.txt
+  120  cat >>1.txt 
+  121  ls
+  122  cat 1.txt 
+  123  less 1.txt
+  124  echo -e "Foreground in \e[31mRed"
+  125  echo -e "Foreground in \e[31mGreen"
+  126  echo -e "Foreground in \e[31mYellow"
+  127  echo -e "Foreground in \e[32mGreen"
+  128  echo -e "Foreground in \e[33mYellow"
+  129  echo -e "Foreground in \e[34mBlue"
+  130  echo -e "Default \e[39mDefault"
+  131  echo -e "Background in \e[41mRed"
+  132  echo -e "Background in \e[42mGreen"
+  133  echo -e "Background in \e[43mYellow"
+  134  echo -e "Background in \e[44mBlue"
+  135  echo -e "Default \e[49mDefault"
+  136  clear
+  137  echo -e "Normal \e[1mBold"
+  138  echo -e "Normal \e[mBlink"
+  139  echo -e "Normal \e[4mUnderlined"
+  140  echo -e "Normal \e[5mBlink"
+  141  echo -e "\e[0mNormal Text"
+  142  clear
+  143  date
+  144  cal 2 2020
+  145  clear
+  146  history
+  147  cal 2 2020
+  148  clear
+  149  man passwd
+  150  man 5 passwd
+  151  man -a passwd
+  152  info passwd
+  153  sudo /usr/sbin/makewhatis
+  154  whatis
+  155  whatis passwd
+  156  clear
+  157  pwd
+  158  cd /home/aset
+  159  mkdir temp
+  160  cd temp
+  161  pwd
+  162  cd ~
+  163  pwd
+  164  clear
+  165  git
+  166  sudo apt install git
+  167  info script
+  168  CLEAR
+  169  clear
+  170  script -t timelog4.1Yurchenko task4.1Yurchenko
+  171  qscx
+  172  qq
+  173  info script
+  174  script -t "timelog1Yurchenko" "task1Yurchenko"
+  175  echo -e "\e[33;44mForeground in Yellow, Background in Blue"
+  176  echo -e "\e[39;49mDefault"
+  177  echo -e "\e[0mNormal \e[1mBold \e[0;4mUnderlined \e[0;5mBlink \e[0mNormal"
+  178  echo -e "\e[0;33;44mBlueBg YellowFg \e[0;33;44;1mBold \e[0;33;44;4mUnderlined\e[0;33;44;5m Blink \e[0;33;44Normal\e[0;39;49m
+  179  d
+  180  q
+  181  echo -e "\e[0;33;44mBlueBg YellowFg \e[0;33;44;1mBold \e[0;33;44;4mUnderlined\e[0;33;44;5m Blink \e[0;33;44Normal\e[0;39;49m 
+  182  echo -e "\e[0;33;44mBlueBg YellowFg \e[0;33;44;1mBold \e[0;33;44;4mUnderlined\e[0;33;44;5m Blink \e[0;33;44Normal\e[0;39;49m"
+  183  echo -e "\e[0;33;44mBlueBg YellowFg \e[0;33;44;1mBold \e[0;33;44;4mUnderlined\e[0;33;44;5m Blink \e[0;33;44mNormal\e[0;39;49m 
+  184  echo -e "\e[0;33;44mBlueBg YellowFg \e[0;33;44;1mBold \e[0;33;44;4mUnderlined\e[0;33;44;5m Blink \e[0;33;44mNormal\e[0;39;49m" 
+  185  exit
+  186  info date
+  187  date +"Today is "'%e'", "'%B'", "'%Y'"\nThe time now is "'%T'
+  188  date +"Today is "'%e'", "'%B'", "'%Y''\n'"The time now is "'%T'
+  189  date +"Today is "'%e'", "'%B'", "'%Y''/n'"The time now is "'%T'
+  190  date +"Today is "'%e'", "'%B'", "'%Y'"/nThe time now is "'%T'
+  191  date +"Today is "'%e'", "'%B'", "'%Y'; date +"The time now is "'%T'
+  192  cal 2 2020
+  193  cal 3 2020
+  194  cal 3 1998
+  195  exit
+  196  history
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "Normal \e[5mBlink \e[25mNormal"
+Normal [5mBlink [25mNormal
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[0mNormal Text"
+[0mNormal Text
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[0mNormal Text"[K[K[K[K[K[K[K[K[K[K[K[K[K[K1;31;42m Bold and RedFg and GreenBg \e[0m"
+[1;31;42m Bold and RedFg and GreenBg [0m
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ !-3
+echo -e "Normal \e[5mBlink \e[25mNormal"
+Normal [5mBlink [25mNormal
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ !-3
+echo -e "\e[0mNormal Text"
+[0mNormal Text
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[0mNormal Text"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K!-3 ^42^44
+echo -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m" ^42^44
+[1;31;42m Bold and RedFg and GreenBg [0m ^42^44
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ ^42&[K[K[K[Kecho -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m" ^442^44^
+[1;31;42m Bold and RedFg and GreenBg [0m ^42^44^
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ echo -e "\e[1;31;42m Bold and RedFg and GreenBg \e[0m" ^442^44^[K^[A]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C^42^44^
+echo -e "\e[1;31;44m Bold and RedFg and GreenBg \e[0m" ^42^44^
+[1;31;44m Bold and RedFg and GreenBg [0m ^42^44^
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ [K]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-14 11:50:17+0300

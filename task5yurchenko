@@ -1,0 +1,20 @@
+Script started on 2020-03-14 11:57:44+0300
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ exitwhatis printf[2Pinfo[C[C[C[C[C[C[C[2@man -a[C[C[C[C[C[C[C[1P3[C[C[C[C[C[C[C[2Pprintf3 printf[1@-a[C[C[C[C[C[C[C[2Pinfo[C[C[C[C[C[C[C[2@whatis[C[C[C[C[C[C[Cexit[K[Kmk[Kkdir yurchenlko[K[K[Kko
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ cd yurchenko
+]0;aset@Aset-VirtualBox: ~/yurchenko[01;32maset@Aset-VirtualBox[00m:[01;34m~/yurchenko[00m$ pwd
+/home/aset/yurchenko
+]0;aset@Aset-VirtualBox: ~/yurchenko[01;32maset@Aset-VirtualBox[00m:[01;34m~/yurchenko[00m$ cd ~
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ pwd
+/home/aset
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ cd..[K[K ..
+]0;aset@Aset-VirtualBox: /home[01;32maset@Aset-VirtualBox[00m:[01;34m/home[00m$ cd ~[K[K
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ cd/[K /
+]0;aset@Aset-VirtualBox: /[01;32maset@Aset-VirtualBox[00m:[01;34m/[00m$ cd ~
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ cd yurchenko
+]0;aset@Aset-VirtualBox: ~/yurchenko[01;32maset@Aset-VirtualBox[00m:[01;34m~/yurchenko[00m$ pwd
+/home/aset/yurchenko
+]0;aset@Aset-VirtualBox: ~/yurchenko[01;32maset@Aset-VirtualBox[00m:[01;34m~/yurchenko[00m$ e[Kcd
+]0;aset@Aset-VirtualBox: ~[01;32maset@Aset-VirtualBox[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-14 12:02:14+0300
